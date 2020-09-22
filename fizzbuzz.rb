@@ -3,6 +3,6 @@
 
 def fizzbuzz(int)
   if int / 3 == on
-    "Fizz"
+    return "Fizz"
   end 
 end 
